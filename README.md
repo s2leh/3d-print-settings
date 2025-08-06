@@ -17,7 +17,7 @@ Supports are required to ensure stability and dimensional accuracy during printi
 
 ## Material Used:
 
-PMEG filament (Please check specific print settings for PMEG compatibility with your printer).
+PETG filament (Please check specific print settings for PETG compatibility with your printer).
 
 
 <img width="959" height="483" alt="image" src="https://github.com/user-attachments/assets/5f98b5e9-c269-400a-8d94-6ca39b332e4e" />
